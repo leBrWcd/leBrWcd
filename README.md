@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### 我是leBrWcd,一名Java后端开发工程师，感谢您访问我的GitHub主页！
-### Use the losses and failures of the past as a reason for action, not inaction.
+### `Use the losses and failures of the past as a reason for action, not inaction.`
 ### 过去的损失和失败经验，应是你采取行动，而非不采取行动的理由！
 
 <!--
